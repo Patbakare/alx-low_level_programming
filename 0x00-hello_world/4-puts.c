@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* writing a C program that prints
+ *  this while implementing*/
 
 int main(void)
 
