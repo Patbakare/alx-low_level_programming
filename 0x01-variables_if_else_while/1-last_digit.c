@@ -4,6 +4,7 @@
 
 /*
  * main - Entry point of the main int
+ * Description: This is the testinq main
  *
  * Return: Always 0 (Success)
  */
