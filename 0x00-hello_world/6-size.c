@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *  * main - main block
- *
- *   * Return: 0
- *
- *    */
+ * main - main block
+ * Return: 0
+ */
 
 int main(void)
 
@@ -23,5 +20,6 @@ int main(void)
 						printf("Size of a float: %i byte(s)\n", sizeof(float));
 
 							return (0);
+
 
 }
