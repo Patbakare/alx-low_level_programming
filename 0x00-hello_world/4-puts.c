@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /*
- * writing a C program that prints
- *  this while implementing
-*/
+ *   main - entry point
+ *
+ *    Return: 0
+ *
+ */
 
 int main(void)
 
