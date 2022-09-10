@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
+/**
  * main - Entry point of the main int
  * Description: This is the testinq main
  *
