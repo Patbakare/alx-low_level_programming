@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * abs -> return absolute value of a member
+ * _abs -> return absolute value of a member
  * @n: parameter
  * Return: absolute value of a member
  */
