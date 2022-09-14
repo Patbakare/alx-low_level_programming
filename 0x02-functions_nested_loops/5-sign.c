@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign: based on condition
+ * print_sign -> based on condition
  * @n: argument passed
  * Return: 1, 0, -1
  */
