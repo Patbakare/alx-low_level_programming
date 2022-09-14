@@ -4,7 +4,7 @@
  * add -> adding it up
  * @a: first integer
  * @b: second integer
- * Return: Sum of both integers 
+ * Return:Sum of both integers
  */
 int add(int a, int b)
 {
