@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - the program prints a function followed by a new line.
- * Return: 0
+ * Return
  */
 
 int main(void)
